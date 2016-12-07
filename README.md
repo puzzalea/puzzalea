@@ -6,7 +6,7 @@ Puzzalea is a collection of open source projects by [caraheacock](https://github
 
 These projects are ready for you to ~~break~~ try out.
 
-- [Puzzle Grid](https://github.com/puzzalea/grid)
+- [Puzzle Grid](https://github.com/puzzalea/grid), a responsive flexbox grid
 
 ## Upcoming Projects
 
