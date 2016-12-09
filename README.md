@@ -13,4 +13,4 @@ These projects are ready for you to ~~break~~ try out.
 These projects are not quite ready and I'm still doing some adjustments/testing before I can call them "done".
 
 - [Puzzle](https://github.com/puzzalea/puzzle), a WordPress starter theme
-- Puzzle Page Builder, a WordPress page builder plugin
+- [Puzzle Page Builder](https://github.com/puzzalea/puzzle-page-builder), a WordPress page builder plugin
